@@ -1,6 +1,8 @@
-# Push_notification_v2.0_POC
+# Push_notification_v2.0 Asset
 
-**The Proof of concept to provide the capability of showing push notification on the React store using Firebase cloud messaging.**
+**The asset is to provide the capability of showing push notification on the React store using Firebase cloud messaging.**
+
+**DISCLAIMER: This asset is being provided as-is to help accelerate your projects. As such, we are unable to provide official support for this asset. We have provided documentation as well as any needed code artifacts for your use.**
 
 
 The user would be able to receive notification based on the scenerios like 
